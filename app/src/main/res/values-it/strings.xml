@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tile_label">Indicatori di movimento</string>
+    <string name="notification_channel_name">Servizio per gli indicatori di movimento</string>
+    <string name="notification_title">Indicatori di movimento attivati</string>
+    <string name="notification_text">Gli Indicatori di movimento sono in uso per ridurre la chinetosi</string>
+    <string name="motion_cues_title">Indicatori di movimento nei veicoli</string>
+    <string name="motion_cues_description">Riduce la chinetosi sincronizzando la tua visione con il movimento del veicolo</string>
+    <string name="auto_activation_title">Attivazione automatica</string>
+    <string name="auto_activation_description">"Mostra gli indicatori di movimento automaticamente quando viene rilevato "</string>
+    <string name="permissions_header">Richiede autorizzazioni</string>
+    <string name="permission_overlay_title">Mostra sopra le altre app</string>
+    <string name="permission_overlay_description">Richiesto per mostrare gli indicatori di movimento sopra le altre app</string>
+    <string name="permission_activity_title">Sensori di movimento</string>
+    <string name="permission_activity_description">Servono per rilevare il movimento di un veicolo</string>
+    <string name="permission_notifications_title">Notifiche</string>
+    <string name="permission_notifications_description">Richieste per tenere il servizio attivo in background</string>
+    <string name="btn_ready">Tutto pronto!</string>
+    <string name="permissions_error_footer">Autorizza tutto per attivare gli indicatori</string>
+    <string name="btn_grant">Autorizza</string>
+</resources>

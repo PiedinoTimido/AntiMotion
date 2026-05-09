@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">AntiMotion</string>
+    <string name="tile_label">Motion Cues</string>
+    <string name="notification_channel_name">Motion Cues Service</string>
+    <string name="notification_title">Motion Cues Active</string>
+    <string name="notification_text">AntiMotion is running to reduce motion sickness.</string>
+
+    <string name="motion_cues_title">Vehicle Motion Cues</string>
+    <string name="motion_cues_description">Reduce motion sickness by synchronizing your vision with the vehicle\'s movement.</string>
+    <string name="auto_activation_title">Automatic Activation</string>
+    <string name="auto_activation_description">Show motion cues automatically when driving is detected.</string>
+    <string name="permissions_header">Required Permissions</string>
+    <string name="permission_overlay_title">Display over other apps</string>
+    <string name="permission_overlay_description">Required to show the motion cue dots while using other apps.</string>
+    <string name="permission_activity_title">Activity Recognition</string>
+    <string name="permission_activity_description">Allows the app to detect vehicle movement.</string>
+    <string name="permission_notifications_title">Notifications</string>
+    <string name="permission_notifications_description">Required to keep the service active in the background.</string>
+    <string name="btn_ready">Ready to Go</string>
+    <string name="permissions_error_footer">Please grant all permissions to enable the feature.</string>
+    <string name="btn_grant">Grant</string>
+</resources>
